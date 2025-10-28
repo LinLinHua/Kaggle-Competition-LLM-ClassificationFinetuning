@@ -17,8 +17,10 @@ We encourage you to explore various machine-learning techniques to build a model
 
 This competition challenges you to predict which responses users will prefer in a head-to-head battle between chatbots powered by large language models (LLMs).
 ---
+
 ## Model Choose
 This model is logistic regression model to create a baseline.
+
 ---
 ## Main Propose of this Project
-1. Familar with the data pre-processing and featuring engineering of LLM's strings dataset
+Familar with the data pre-processing and featuring engineering of LLM's strings dataset
