@@ -16,3 +16,9 @@ This challenge aligns with the concept of "reward models" or "preference models"
 We encourage you to explore various machine-learning techniques to build a model that can effectively predict user preferences. Your work will be instrumental in developing LLMs that can tailor responses to individual user preferences, ultimately leading to more user-friendly and widely accepted AI-powered conversation systems.
 
 This competition challenges you to predict which responses users will prefer in a head-to-head battle between chatbots powered by large language models (LLMs).
+---
+## Model Choose
+This model is logistic regression model to create a baseline.
+---
+## Main Propose of this Project
+1. Familar with the data pre-processing and featuring engineering of LLM's strings dataset
